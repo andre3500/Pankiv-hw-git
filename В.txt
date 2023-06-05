@@ -1,4 +1,4 @@
 Test file 2
-TLine from feature branch
+Line from feature branch
 Test file 2
 Test file 2
